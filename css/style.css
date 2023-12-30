@@ -46,3 +46,17 @@ body {
 #authors .fab {
   color: #fff;
 }
+
+@media (max-width: 768px) {
+  #showcase {
+    min-height: 500px;
+  }
+
+  #showcase h1 {
+    font-size: 4rem;
+  }
+
+  .mb-resp {
+    margin-bottom: 1rem;
+  }
+}
