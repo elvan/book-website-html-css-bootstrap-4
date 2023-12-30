@@ -27,3 +27,22 @@ body {
   height: 100%;
   background: rgba(50, 146, 166, 0.8);
 }
+
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #ddd solid;
+}
+
+#authors img {
+  margin-top: -50px;
+}
+
+#authors .card:hover {
+  color: #fff;
+  background: #3292a6;
+}
+
+#authors .fab {
+  color: #fff;
+}
